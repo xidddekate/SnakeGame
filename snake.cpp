@@ -204,9 +204,8 @@ int print_final_message(){//printing final message screen
 	cout<<"               Press S to open settings\n";
 	cout<<"               esc to EXIT\n\n\n\n\n\n";
 	setConsoleColour(consoleforeground::DARKYELLOW);
-	cout<<"               Mysterious Owl\n";
-	cout<<"               github.com/Mysterious-Owl\n";
-	cout<<"               youtube.com/channel/UCpkxxb7y9nIlUlft5GKTNsg";
+	cout<<"               xiddekate\n";
+	cout<<"               github.com/xiddekate\n";
 	a=getch();
 	return a;
 }
